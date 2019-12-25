@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7d99af74ffc3d2d4a9078e45dfa9bbfe
+timeCreated: 1449173634
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - hill: {instanceID: 0}
+  - bugPrefab: {instanceID: 0}
+  - hillPrefab: {fileID: 172522, guid: 90cd2fd294b942f46b03abff8561c272, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
